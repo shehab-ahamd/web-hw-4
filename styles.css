@@ -1,1 +1,29 @@
 /* 🎓 تحت هذا التعليق أتحفونا بتصاميمكم التي تليق بقدر حاسبة الدرجات */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html{
+    height: 100%;
+}
+body{
+    background: rgb(0,212,255);
+    background: radial-gradient(circle, rgba(0,212,255,1) 0%, rgba(9,9,121,1) 67%);
+    
+    background-repeat: no-repeat;
+    color: blanchedalmond;
+    text-align: center;
+    margin: 25px;
+    margin-top: 5px;
+    padding: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+}
+input{
+    margin: 25px;
+}
+img{
+    display: block;
+    margin: auto;
+}
